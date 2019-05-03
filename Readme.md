@@ -1,1 +1,2 @@
-describe file of git repository.
+# initial commit
+git try project only for learning
